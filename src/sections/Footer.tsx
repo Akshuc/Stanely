@@ -29,7 +29,7 @@ function Footer() {
         target="_blank"
         className="footer-link"
       >
-        <span className="footer-info">Designed and Built by Silas Paul.</span>
+        <span className="footer-info">Designed and Built by Joseph Stanley Geddam.</span>
         
       </Link>
     </footer>

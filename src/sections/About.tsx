@@ -30,8 +30,7 @@ function About() {
           <p className="about-grid-info-text">
             Bonjour! My name is Joseph Stanley Geddam, and I am passionate about creating 
             digital content for the web. My interest in web development was
-            sparked in 2008 when I created my first project called Weather Update, a
-            social media app built using React and Node.js.
+            sparked in my initial college days.
           </p>
           <p className="about-grid-info-text">
             Fast-forward to today, I specialize in designing and developing
@@ -50,11 +49,14 @@ function About() {
           believe in making the work environment vibrant and friendly
           </p>
           <p className="about-grid-info-text">
-          I am currently working on a React project that is focused on creating a digital marketing
-          platform for an e-commerce business. We are using a combination of Reactjs, Redux, Nodejs,
-          and MongoDB to create a dynamic web application with user authentication and data management.
-          Our goal is to improve the user experience by implementing component libraries, adding responsive
-          design, and leveraging state management. We also plan to integrate some popular marketing tools to
+          I am currently leading the project of redesigning the online and in-store customer experience for CVS Health.
+          The primary objectives of this project are to revamp the user interface and user experience to create a more
+          intuitive shopping experience for customers, while also increasing CVS’s digital presence. The project also
+          involves creating a more efficient and personalized shopping experience for customers by improving the usability
+          and accessibility of the website and in-store applications. This includes focusing on the development of the customer
+          profiling, loyalty and rewards programs, in-store experience, product discovery and website navigation. Additionally,
+          this project involves the development of an optimized design for mobile experiences that accommodates the needs of CVS Health’s
+          growing number of customers on mobile devices. We also plan to integrate some popular marketing tools to
           facilitate efficient digital marketing strategies at.{" "}
             <Link
               className="link"
